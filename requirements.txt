@@ -1,2 +1,2 @@
-tornado
-sqlalchemy
+tornado==4.5.1
+sqlalchemy==1.1.9
